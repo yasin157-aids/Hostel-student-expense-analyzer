@@ -1,0 +1,681 @@
+TransactionID,Date,Time,Category,Description,Amount_INR,PaymentMethod,ExpenseType
+TX0005,2026-07-01,12:45,Laundry,Laundry load,94,Cash,Personal
+TX0595,2026-07-01,19:10,Transportation,Bus fare,31,UPI,Shared
+TX0636,2026-07-01,19:10,Food Delivery,Pizza share,329,Card,Shared
+TX0327,2026-07-01,21:30,Social & Friends,Birthday contribution,308,Cash,Shared
+TX0355,2026-07-01,21:30,Laundry,Ironing,79,Card,Shared
+TX0382,2026-07-02,08:15,Snacks & Drinks,Chips and biscuits,62,Card,Shared
+TX0117,2026-07-02,16:20,Turf & Sports,Cricket nets,202,Cash,Personal
+TX0625,2026-07-02,19:10,Laundry,Laundry load,83,Card,Personal
+TX0371,2026-07-02,21:30,Snacks & Drinks,Tea/coffee,17,Cash,Personal
+TX0465,2026-07-02,21:30,Subscriptions,Music subscription,113,UPI,Shared
+TX0258,2026-07-03,10:30,Food Delivery,Food delivery order,296,Card,Personal
+TX0376,2026-07-03,12:45,Snacks & Drinks,Juice,78,UPI,Personal
+TX0384,2026-07-03,12:45,Entertainment,Theatre snacks,197,UPI,Shared
+TX0217,2026-07-03,16:20,Social & Friends,Birthday contribution,416,Card,Shared
+TX0528,2026-07-03,19:10,Entertainment,Movie ticket,204,UPI,Personal
+TX0575,2026-07-04,10:30,Food Delivery,Food delivery order,469,UPI,Personal
+TX0650,2026-07-04,10:30,Food Delivery,Food delivery order,153,Cash,Shared
+TX0003,2026-07-04,19:10,Food & Mess Extras,Extra meal,109,UPI,Personal
+TX0095,2026-07-04,19:10,Health,Medicine,40,UPI,Personal
+TX0564,2026-07-05,08:15,Transportation,Auto ride,100,Card,Shared
+TX0314,2026-07-05,16:20,Turf & Sports,Badminton court share,76,Cash,Shared
+TX0307,2026-07-05,19:10,Snacks & Drinks,Chips and biscuits,75,Cash,Personal
+TX0226,2026-07-05,21:30,Food & Mess Extras,Parotta dinner,69,UPI,Shared
+TX0272,2026-07-05,21:30,Food & Mess Extras,Extra meal,144,Cash,Shared
+TX0211,2026-07-06,08:15,Snacks & Drinks,Juice,32,UPI,Shared
+TX0489,2026-07-06,08:15,Personal Care,Soap/shampoo,102,Cash,Shared
+TX0666,2026-07-06,08:15,Subscriptions,Video streaming,196,Cash,Shared
+TX0640,2026-07-06,16:20,Shopping,Clothing,990,Cash,Personal
+TX0660,2026-07-06,21:30,Snacks & Drinks,Chips and biscuits,21,Card,Shared
+TX0053,2026-07-07,08:15,Food & Mess Extras,Parotta dinner,95,UPI,Shared
+TX0118,2026-07-07,08:15,Snacks & Drinks,Chips and biscuits,29,Cash,Shared
+TX0200,2026-07-07,08:15,Social & Friends,Treat for friends,460,Card,Personal
+TX0591,2026-07-07,10:30,Personal Care,Soap/shampoo,160,Card,Personal
+TX0571,2026-07-07,12:45,Shopping,Clothing,480,Cash,Shared
+TX0546,2026-07-07,16:20,Food & Mess Extras,Extra meal,69,Card,Shared
+TX0606,2026-07-07,16:20,Subscriptions,Video streaming,212,UPI,Shared
+TX0183,2026-07-07,19:10,Stationery & Printing,Notebook and pens,62,UPI,Personal
+TX0634,2026-07-07,19:10,Stationery & Printing,Printouts,47,Card,Shared
+TX0673,2026-07-07,19:10,Snacks & Drinks,Chips and biscuits,24,UPI,Shared
+TX0116,2026-07-07,21:30,Entertainment,Weekend outing,164,Cash,Personal
+TX0042,2026-07-08,08:15,Social & Friends,Birthday contribution,195,Card,Personal
+TX0034,2026-07-08,10:30,Transportation,Auto ride,67,UPI,Personal
+TX0316,2026-07-08,12:45,Laundry,Laundry load,111,Card,Shared
+TX0128,2026-07-08,16:20,Snacks & Drinks,Chips and biscuits,51,UPI,Shared
+TX0345,2026-07-08,19:10,Stationery & Printing,Photocopies,17,Card,Personal
+TX0205,2026-07-09,08:15,Snacks & Drinks,Juice,28,Card,Personal
+TX0014,2026-07-09,10:30,Snacks & Drinks,Juice,65,Card,Shared
+TX0493,2026-07-09,12:45,Personal Care,Haircut,179,Cash,Personal
+TX0456,2026-07-09,16:20,Stationery & Printing,Printouts,32,UPI,Shared
+TX0036,2026-07-10,08:15,Transportation,Bike taxi,65,Card,Personal
+TX0278,2026-07-10,08:15,Transportation,Bike taxi,153,Card,Shared
+TX0466,2026-07-10,08:15,Snacks & Drinks,Tea/coffee,16,Cash,Shared
+TX0119,2026-07-10,10:30,Turf & Sports,Badminton court share,66,UPI,Shared
+TX0504,2026-07-10,10:30,Health,Medicine,85,UPI,Personal
+TX0396,2026-07-10,16:20,Food Delivery,Pizza share,484,Cash,Personal
+TX0220,2026-07-10,19:10,Entertainment,Movie ticket,255,UPI,Shared
+TX0304,2026-07-10,19:10,Food Delivery,Late-night biryani,345,Cash,Personal
+TX0161,2026-07-10,21:30,Transportation,Auto ride,116,Cash,Shared
+TX0464,2026-07-10,21:30,Snacks & Drinks,Tea/coffee,43,Cash,Personal
+TX0025,2026-07-11,10:30,Laundry,Laundry load,108,UPI,Shared
+TX0594,2026-07-11,12:45,Transportation,Bike taxi,85,Card,Personal
+TX0091,2026-07-11,16:20,Gaming,Game purchase,986,UPI,Personal
+TX0120,2026-07-11,16:20,Miscellaneous,Unexpected expense,162,Card,Personal
+TX0108,2026-07-11,19:10,Snacks & Drinks,Chips and biscuits,77,UPI,Shared
+TX0554,2026-07-11,19:10,Subscriptions,Gaming subscription,204,UPI,Personal
+TX0462,2026-07-11,21:30,Food Delivery,Pizza share,266,Cash,Personal
+TX0631,2026-07-12,08:15,Personal Care,Haircut,120,Cash,Personal
+TX0168,2026-07-12,10:30,Mobile & Internet,Data add-on,72,UPI,Personal
+TX0074,2026-07-12,12:45,Stationery & Printing,Notebook and pens,202,UPI,Personal
+TX0037,2026-07-12,16:20,Shopping,Clothing,370,Cash,Shared
+TX0136,2026-07-12,16:20,Food Delivery,Late-night biryani,210,Card,Personal
+TX0218,2026-07-12,16:20,Transportation,Bus fare,41,Card,Shared
+TX0596,2026-07-12,16:20,Food & Mess Extras,Parotta dinner,114,Cash,Shared
+TX0131,2026-07-12,21:30,Snacks & Drinks,Juice,27,Cash,Personal
+TX0329,2026-07-12,21:30,Gaming,Game purchase,646,Card,Personal
+TX0326,2026-07-13,08:15,Transportation,Bike taxi,160,Card,Personal
+TX0510,2026-07-13,08:15,Transportation,Bus fare,25,UPI,Personal
+TX0249,2026-07-13,10:30,Stationery & Printing,Photocopies,26,UPI,Personal
+TX0010,2026-07-13,12:45,Food Delivery,Late-night biryani,312,UPI,Shared
+TX0297,2026-07-13,16:20,Food & Mess Extras,Parotta dinner,138,UPI,Personal
+TX0194,2026-07-13,21:30,Stationery & Printing,Notebook and pens,197,Card,Personal
+TX0541,2026-07-13,21:30,Stationery & Printing,Photocopies,46,UPI,Personal
+TX0669,2026-07-13,21:30,Snacks & Drinks,Juice,25,UPI,Personal
+TX0632,2026-07-14,08:15,Transportation,Bus fare,80,UPI,Shared
+TX0638,2026-07-14,08:15,Snacks & Drinks,Tea/coffee,22,Cash,Personal
+TX0408,2026-07-14,12:45,Snacks & Drinks,Tea/coffee,35,Card,Shared
+TX0643,2026-07-14,12:45,Food Delivery,Pizza share,490,Card,Shared
+TX0543,2026-07-14,16:20,Food & Mess Extras,Extra meal,158,UPI,Personal
+TX0002,2026-07-14,19:10,Subscriptions,Gaming subscription,121,Cash,Personal
+TX0174,2026-07-14,19:10,Subscriptions,Video streaming,105,Card,Shared
+TX0102,2026-07-14,21:30,Transportation,Auto ride,157,UPI,Shared
+TX0186,2026-07-15,08:15,Subscriptions,Music subscription,75,Cash,Personal
+TX0561,2026-07-15,08:15,Transportation,Bus fare,22,Card,Personal
+TX0624,2026-07-15,08:15,Mobile & Internet,Data add-on,24,Cash,Shared
+TX0617,2026-07-15,10:30,Food & Mess Extras,Extra meal,46,Card,Personal
+TX0621,2026-07-15,10:30,Snacks & Drinks,Juice,32,UPI,Shared
+TX0051,2026-07-15,12:45,Mobile & Internet,Mobile recharge,218,Card,Personal
+TX0127,2026-07-15,12:45,Entertainment,Weekend outing,176,UPI,Personal
+TX0423,2026-07-15,12:45,Stationery & Printing,Photocopies,14,Cash,Shared
+TX0482,2026-07-15,12:45,Transportation,Bike taxi,54,Card,Personal
+TX0530,2026-07-15,12:45,Personal Care,Haircut,89,Card,Shared
+TX0176,2026-07-15,16:20,Snacks & Drinks,Tea/coffee,29,UPI,Personal
+TX0018,2026-07-15,19:10,Snacks & Drinks,Tea/coffee,37,UPI,Shared
+TX0202,2026-07-15,19:10,Laundry,Laundry load,94,Card,Personal
+TX0412,2026-07-15,19:10,Shopping,Clothing,806,UPI,Personal
+TX0665,2026-07-15,21:30,Subscriptions,Video streaming,160,Card,Personal
+TX0028,2026-07-16,08:15,Snacks & Drinks,Tea/coffee,31,Card,Personal
+TX0483,2026-07-16,08:15,Food & Mess Extras,Extra meal,134,UPI,Shared
+TX0113,2026-07-16,10:30,Laundry,Laundry load,64,Card,Shared
+TX0286,2026-07-16,10:30,Entertainment,Theatre snacks,102,Cash,Personal
+TX0557,2026-07-16,10:30,Health,Clinic visit,188,UPI,Personal
+TX0253,2026-07-16,16:20,Food & Mess Extras,Parotta dinner,139,UPI,Personal
+TX0604,2026-07-16,16:20,Food Delivery,Pizza share,199,Card,Shared
+TX0680,2026-07-16,16:20,Food & Mess Extras,Canteen lunch,116,Card,Personal
+TX0079,2026-07-16,19:10,Transportation,Auto ride,175,Card,Shared
+TX0354,2026-07-16,19:10,Snacks & Drinks,Juice,75,UPI,Personal
+TX0182,2026-07-16,21:30,Health,Clinic visit,146,UPI,Personal
+TX0348,2026-07-17,08:15,Entertainment,Theatre snacks,204,Card,Shared
+TX0513,2026-07-17,08:15,Food & Mess Extras,Parotta dinner,75,Cash,Personal
+TX0285,2026-07-17,10:30,Personal Care,Soap/shampoo,236,Cash,Personal
+TX0046,2026-07-17,12:45,Subscriptions,Video streaming,216,UPI,Personal
+TX0305,2026-07-17,12:45,Social & Friends,Treat for friends,482,Card,Shared
+TX0096,2026-07-17,16:20,Transportation,Bus fare,37,Card,Shared
+TX0558,2026-07-17,16:20,Food & Mess Extras,Extra meal,132,UPI,Personal
+TX0534,2026-07-17,19:10,Snacks & Drinks,Tea/coffee,35,UPI,Personal
+TX0054,2026-07-17,21:30,Gaming,In-game purchase,131,Cash,Shared
+TX0511,2026-07-17,21:30,Snacks & Drinks,Chips and biscuits,62,Card,Personal
+TX0261,2026-07-18,12:45,Food & Mess Extras,Parotta dinner,64,UPI,Personal
+TX0337,2026-07-18,12:45,Transportation,Bus fare,10,Cash,Personal
+TX0645,2026-07-18,12:45,Snacks & Drinks,Juice,90,Card,Shared
+TX0342,2026-07-18,16:20,Transportation,Auto ride,135,Card,Shared
+TX0238,2026-07-18,19:10,Snacks & Drinks,Chips and biscuits,27,Card,Personal
+TX0451,2026-07-18,21:30,Social & Friends,Treat for friends,188,UPI,Personal
+TX0453,2026-07-19,08:15,Turf & Sports,Cricket nets,198,Card,Personal
+TX0499,2026-07-19,10:30,Laundry,Laundry load,45,Card,Shared
+TX0651,2026-07-19,12:45,Stationery & Printing,Photocopies,55,UPI,Personal
+TX0075,2026-07-19,19:10,Food & Mess Extras,Extra meal,105,UPI,Shared
+TX0306,2026-07-19,19:10,Snacks & Drinks,Juice,76,UPI,Personal
+TX0548,2026-07-20,08:15,Food & Mess Extras,Extra meal,99,Cash,Shared
+TX0627,2026-07-20,08:15,Stationery & Printing,Photocopies,44,UPI,Personal
+TX0496,2026-07-20,10:30,Food & Mess Extras,Parotta dinner,63,Card,Shared
+TX0201,2026-07-20,12:45,Subscriptions,Music subscription,72,Card,Shared
+TX0614,2026-07-20,12:45,Health,Medicine,81,Card,Personal
+TX0040,2026-07-20,19:10,Snacks & Drinks,Tea/coffee,13,Card,Personal
+TX0315,2026-07-20,19:10,Transportation,Bus fare,62,Card,Shared
+TX0488,2026-07-21,10:30,Snacks & Drinks,Tea/coffee,17,Card,Personal
+TX0049,2026-07-21,12:45,Transportation,Bike taxi,220,Card,Personal
+TX0081,2026-07-21,12:45,Laundry,Ironing,77,UPI,Shared
+TX0124,2026-07-21,16:20,Food & Mess Extras,Parotta dinner,136,Cash,Personal
+TX0246,2026-07-21,16:20,Snacks & Drinks,Juice,43,UPI,Personal
+TX0021,2026-07-21,19:10,Transportation,Bike taxi,107,UPI,Personal
+TX0280,2026-07-21,19:10,Laundry,Laundry load,86,UPI,Personal
+TX0240,2026-07-21,21:30,Snacks & Drinks,Juice,46,Cash,Personal
+TX0461,2026-07-21,21:30,Personal Care,Haircut,91,Cash,Shared
+TX0574,2026-07-21,21:30,Stationery & Printing,Printouts,100,UPI,Shared
+TX0612,2026-07-21,21:30,Food & Mess Extras,Parotta dinner,86,Cash,Shared
+TX0346,2026-07-22,08:15,Food Delivery,Pizza share,406,Card,Personal
+TX0379,2026-07-22,10:30,Snacks & Drinks,Juice,87,Card,Personal
+TX0313,2026-07-22,16:20,Entertainment,Weekend outing,417,UPI,Personal
+TX0406,2026-07-22,16:20,Transportation,Auto ride,116,UPI,Shared
+TX0514,2026-07-22,16:20,Shopping,Online order,841,Cash,Personal
+TX0073,2026-07-22,21:30,Subscriptions,Video streaming,230,Card,Shared
+TX0418,2026-07-22,21:30,Gaming,Game purchase,675,Card,Shared
+TX0537,2026-07-22,21:30,Gaming,Game purchase,940,Card,Shared
+TX0385,2026-07-23,10:30,Food & Mess Extras,Extra meal,112,UPI,Personal
+TX0527,2026-07-23,10:30,Transportation,Bus fare,17,Card,Personal
+TX0570,2026-07-23,10:30,Snacks & Drinks,Tea/coffee,13,UPI,Shared
+TX0132,2026-07-23,12:45,Transportation,Bike taxi,153,UPI,Shared
+TX0078,2026-07-23,16:20,Stationery & Printing,Photocopies,38,UPI,Personal
+TX0330,2026-07-23,16:20,Transportation,Bus fare,14,Cash,Personal
+TX0103,2026-07-23,19:10,Laundry,Ironing,98,Cash,Shared
+TX0573,2026-07-23,19:10,Social & Friends,Treat for friends,700,Cash,Shared
+TX0616,2026-07-23,21:30,Personal Care,Haircut,126,Cash,Shared
+TX0256,2026-07-24,12:45,Subscriptions,Music subscription,126,UPI,Personal
+TX0237,2026-07-24,16:20,Health,Clinic visit,585,UPI,Personal
+TX0352,2026-07-24,16:20,Laundry,Ironing,67,Cash,Shared
+TX0144,2026-07-25,08:15,Shopping,Clothing,1084,Cash,Shared
+TX0032,2026-07-25,12:45,Food & Mess Extras,Canteen lunch,95,Cash,Shared
+TX0070,2026-07-25,19:10,Transportation,Auto ride,84,Card,Shared
+TX0583,2026-07-25,19:10,Snacks & Drinks,Tea/coffee,13,Cash,Shared
+TX0244,2026-07-26,08:15,Stationery & Printing,Notebook and pens,94,Card,Shared
+TX0281,2026-07-26,08:15,Stationery & Printing,Notebook and pens,156,Cash,Shared
+TX0222,2026-07-26,10:30,Snacks & Drinks,Tea/coffee,14,Card,Shared
+TX0262,2026-07-26,19:10,Mobile & Internet,Data add-on,58,Cash,Shared
+TX0549,2026-07-26,21:30,Food & Mess Extras,Extra meal,66,Cash,Personal
+TX0671,2026-07-27,16:20,Entertainment,Weekend outing,479,Card,Personal
+TX0375,2026-07-27,19:10,Food Delivery,Late-night biryani,161,UPI,Personal
+TX0449,2026-07-27,19:10,Stationery & Printing,Photocopies,27,Cash,Personal
+TX0006,2026-07-28,08:15,Social & Friends,Treat for friends,204,Cash,Personal
+TX0277,2026-07-28,10:30,Miscellaneous,Small household item,281,UPI,Personal
+TX0212,2026-07-28,12:45,Laundry,Ironing,57,UPI,Personal
+TX0350,2026-07-28,12:45,Turf & Sports,Football turf share,208,Card,Personal
+TX0038,2026-07-28,16:20,Personal Care,Soap/shampoo,82,UPI,Shared
+TX0141,2026-07-29,08:15,Miscellaneous,Unexpected expense,138,Card,Personal
+TX0553,2026-07-29,10:30,Stationery & Printing,Photocopies,8,Card,Personal
+TX0599,2026-07-29,10:30,Subscriptions,Video streaming,178,UPI,Shared
+TX0491,2026-07-29,12:45,Food Delivery,Late-night biryani,334,Cash,Personal
+TX0533,2026-07-29,12:45,Subscriptions,Music subscription,107,Card,Shared
+TX0366,2026-07-29,16:20,Food Delivery,Pizza share,253,UPI,Shared
+TX0420,2026-07-29,19:10,Entertainment,Weekend outing,385,Card,Personal
+TX0442,2026-07-29,19:10,Food Delivery,Late-night biryani,207,Cash,Personal
+TX0603,2026-07-29,21:30,Laundry,Laundry load,67,UPI,Personal
+TX0125,2026-07-30,08:15,Snacks & Drinks,Chips and biscuits,73,Card,Personal
+TX0242,2026-07-30,10:30,Entertainment,Theatre snacks,180,Cash,Shared
+TX0428,2026-07-30,10:30,Stationery & Printing,Photocopies,16,Card,Shared
+TX0361,2026-07-30,12:45,Stationery & Printing,Photocopies,41,Card,Shared
+TX0391,2026-07-30,12:45,Snacks & Drinks,Juice,85,UPI,Personal
+TX0155,2026-07-30,21:30,Laundry,Ironing,32,Card,Personal
+TX0059,2026-07-31,08:15,Personal Care,Soap/shampoo,145,UPI,Shared
+TX0300,2026-07-31,08:15,Snacks & Drinks,Chips and biscuits,21,Cash,Shared
+TX0613,2026-07-31,08:15,Food & Mess Extras,Canteen lunch,51,Card,Shared
+TX0083,2026-07-31,10:30,Snacks & Drinks,Chips and biscuits,25,UPI,Personal
+TX0248,2026-07-31,10:30,Food Delivery,Food delivery order,311,UPI,Shared
+TX0362,2026-07-31,10:30,Food Delivery,Food delivery order,386,Cash,Shared
+TX0177,2026-07-31,16:20,Mobile & Internet,Mobile recharge,248,Cash,Shared
+TX0474,2026-07-31,19:10,Transportation,Bike taxi,58,UPI,Shared
+TX0629,2026-07-31,19:10,Food Delivery,Late-night biryani,162,UPI,Shared
+TX0399,2026-08-01,10:30,Laundry,Laundry load,74,Cash,Personal
+TX0230,2026-08-01,19:10,Laundry,Ironing,87,Card,Personal
+TX0325,2026-08-01,21:30,Food & Mess Extras,Canteen lunch,68,UPI,Personal
+TX0452,2026-08-01,21:30,Snacks & Drinks,Chips and biscuits,46,Cash,Shared
+TX0539,2026-08-02,08:15,Stationery & Printing,Photocopies,5,Cash,Shared
+TX0263,2026-08-02,12:45,Food & Mess Extras,Canteen lunch,64,Cash,Personal
+TX0378,2026-08-02,16:20,Laundry,Ironing,82,UPI,Shared
+TX0067,2026-08-02,19:10,Food & Mess Extras,Parotta dinner,60,Card,Personal
+TX0407,2026-08-02,19:10,Health,Clinic visit,404,UPI,Shared
+TX0170,2026-08-02,21:30,Mobile & Internet,Data add-on,56,Cash,Personal
+TX0655,2026-08-02,21:30,Snacks & Drinks,Chips and biscuits,43,Card,Shared
+TX0312,2026-08-03,08:15,Social & Friends,Birthday contribution,469,Card,Shared
+TX0339,2026-08-03,08:15,Gaming,Gaming café,110,Card,Personal
+TX0045,2026-08-03,10:30,Snacks & Drinks,Juice,65,Cash,Shared
+TX0123,2026-08-03,10:30,Subscriptions,Music subscription,89,Card,Personal
+TX0092,2026-08-03,12:45,Food Delivery,Food delivery order,352,Cash,Shared
+TX0039,2026-08-03,16:20,Shopping,Online order,392,Card,Shared
+TX0509,2026-08-03,16:20,Stationery & Printing,Notebook and pens,37,Cash,Personal
+TX0107,2026-08-03,19:10,Food Delivery,Pizza share,321,UPI,Personal
+TX0477,2026-08-03,19:10,Snacks & Drinks,Tea/coffee,35,Cash,Shared
+TX0126,2026-08-03,21:30,Stationery & Printing,Photocopies,42,UPI,Shared
+TX0611,2026-08-03,21:30,Stationery & Printing,Notebook and pens,121,Cash,Shared
+TX0369,2026-08-04,08:15,Food Delivery,Pizza share,488,UPI,Personal
+TX0444,2026-08-04,08:15,Stationery & Printing,Printouts,74,Card,Shared
+TX0521,2026-08-04,08:15,Snacks & Drinks,Chips and biscuits,43,Cash,Personal
+TX0333,2026-08-04,10:30,Snacks & Drinks,Tea/coffee,31,Card,Shared
+TX0523,2026-08-04,10:30,Entertainment,Weekend outing,128,Card,Shared
+TX0485,2026-08-04,12:45,Laundry,Laundry load,43,Cash,Shared
+TX0565,2026-08-04,12:45,Mobile & Internet,Mobile recharge,235,Cash,Shared
+TX0620,2026-08-04,16:20,Stationery & Printing,Photocopies,59,Cash,Personal
+TX0457,2026-08-04,19:10,Food Delivery,Late-night biryani,236,Card,Personal
+TX0112,2026-08-04,21:30,Food Delivery,Food delivery order,181,UPI,Shared
+TX0093,2026-08-05,08:15,Laundry,Ironing,52,Cash,Personal
+TX0357,2026-08-05,08:15,Snacks & Drinks,Juice,39,Card,Shared
+TX0114,2026-08-05,10:30,Laundry,Ironing,32,Cash,Personal
+TX0479,2026-08-05,10:30,Food & Mess Extras,Extra meal,110,UPI,Shared
+TX0105,2026-08-05,16:20,Mobile & Internet,Mobile recharge,341,Card,Shared
+TX0185,2026-08-05,19:10,Personal Care,Soap/shampoo,73,Cash,Personal
+TX0471,2026-08-05,19:10,Gaming,Game purchase,665,Card,Shared
+TX0516,2026-08-05,19:10,Transportation,Bus fare,14,Card,Personal
+TX0363,2026-08-05,21:30,Food & Mess Extras,Canteen lunch,62,Card,Shared
+TX0518,2026-08-05,21:30,Food Delivery,Late-night biryani,201,Card,Personal
+TX0139,2026-08-06,08:15,Transportation,Bike taxi,164,UPI,Personal
+TX0250,2026-08-06,10:30,Shopping,Online order,812,Card,Shared
+TX0610,2026-08-06,10:30,Food & Mess Extras,Extra meal,108,Card,Personal
+TX0165,2026-08-06,12:45,Stationery & Printing,Notebook and pens,185,UPI,Personal
+TX0233,2026-08-06,12:45,Snacks & Drinks,Juice,44,UPI,Personal
+TX0373,2026-08-06,12:45,Food Delivery,Pizza share,363,Cash,Shared
+TX0562,2026-08-06,12:45,Personal Care,Haircut,132,Cash,Shared
+TX0135,2026-08-06,19:10,Subscriptions,Video streaming,293,UPI,Shared
+TX0210,2026-08-06,19:10,Subscriptions,Gaming subscription,223,Card,Shared
+TX0157,2026-08-07,10:30,Food Delivery,Late-night biryani,187,Card,Shared
+TX0255,2026-08-07,10:30,Transportation,Bike taxi,130,Card,Shared
+TX0331,2026-08-07,19:10,Personal Care,Soap/shampoo,116,Card,Personal
+TX0467,2026-08-08,08:15,Snacks & Drinks,Tea/coffee,19,Card,Personal
+TX0293,2026-08-08,10:30,Transportation,Bike taxi,55,Cash,Shared
+TX0446,2026-08-08,12:45,Personal Care,Soap/shampoo,155,Cash,Personal
+TX0580,2026-08-08,19:10,Subscriptions,Gaming subscription,200,UPI,Personal
+TX0069,2026-08-08,21:30,Entertainment,Weekend outing,327,Cash,Personal
+TX0087,2026-08-08,21:30,Laundry,Ironing,88,Card,Personal
+TX0320,2026-08-08,21:30,Stationery & Printing,Photocopies,18,Card,Shared
+TX0268,2026-08-09,10:30,Transportation,Bike taxi,149,Card,Shared
+TX0167,2026-08-09,12:45,Stationery & Printing,Notebook and pens,178,Card,Personal
+TX0498,2026-08-09,16:20,Food & Mess Extras,Canteen lunch,70,Cash,Personal
+TX0283,2026-08-09,19:10,Transportation,Bike taxi,162,Cash,Shared
+TX0569,2026-08-09,19:10,Laundry,Ironing,37,Card,Personal
+TX0235,2026-08-09,21:30,Entertainment,Weekend outing,307,Card,Personal
+TX0275,2026-08-10,08:15,Gaming,Game purchase,215,Card,Personal
+TX0321,2026-08-10,12:45,Transportation,Bike taxi,110,UPI,Shared
+TX0475,2026-08-10,12:45,Snacks & Drinks,Juice,78,Card,Personal
+TX0296,2026-08-10,16:20,Snacks & Drinks,Tea/coffee,27,UPI,Personal
+TX0041,2026-08-10,19:10,Food & Mess Extras,Canteen lunch,101,Card,Personal
+TX0228,2026-08-11,08:15,Turf & Sports,Badminton court share,79,Cash,Personal
+TX0298,2026-08-11,10:30,Shopping,Online order,294,Cash,Shared
+TX0567,2026-08-11,10:30,Snacks & Drinks,Chips and biscuits,26,Cash,Personal
+TX0134,2026-08-11,16:20,Subscriptions,Music subscription,101,Card,Shared
+TX0450,2026-08-11,19:10,Social & Friends,Treat for friends,396,Cash,Personal
+TX0598,2026-08-11,21:30,Laundry,Laundry load,42,UPI,Personal
+TX0419,2026-08-12,08:15,Social & Friends,Treat for friends,208,UPI,Shared
+TX0085,2026-08-12,10:30,Entertainment,Theatre snacks,75,Cash,Shared
+TX0332,2026-08-12,10:30,Snacks & Drinks,Juice,88,Card,Shared
+TX0409,2026-08-12,12:45,Transportation,Auto ride,74,Cash,Personal
+TX0618,2026-08-12,12:45,Food Delivery,Late-night biryani,309,Card,Personal
+TX0377,2026-08-12,16:20,Snacks & Drinks,Juice,56,Card,Shared
+TX0590,2026-08-12,16:20,Food Delivery,Pizza share,330,UPI,Shared
+TX0664,2026-08-12,16:20,Food Delivery,Food delivery order,391,Card,Personal
+TX0030,2026-08-12,21:30,Food & Mess Extras,Extra meal,80,Cash,Personal
+TX0529,2026-08-13,08:15,Laundry,Ironing,27,UPI,Personal
+TX0593,2026-08-13,10:30,Transportation,Bike taxi,157,Cash,Personal
+TX0145,2026-08-13,12:45,Shopping,Online order,102,Card,Shared
+TX0106,2026-08-13,16:20,Food & Mess Extras,Parotta dinner,83,UPI,Shared
+TX0204,2026-08-13,19:10,Food Delivery,Food delivery order,193,Card,Shared
+TX0229,2026-08-13,21:30,Miscellaneous,Unexpected expense,149,UPI,Personal
+TX0586,2026-08-13,21:30,Laundry,Laundry load,108,Cash,Shared
+TX0221,2026-08-14,08:15,Laundry,Laundry load,70,UPI,Shared
+TX0287,2026-08-14,08:15,Health,Clinic visit,533,Cash,Personal
+TX0234,2026-08-14,10:30,Food Delivery,Pizza share,380,Card,Personal
+TX0484,2026-08-14,10:30,Entertainment,Weekend outing,232,Cash,Personal
+TX0295,2026-08-14,12:45,Social & Friends,Birthday contribution,489,Card,Personal
+TX0422,2026-08-14,12:45,Miscellaneous,Small household item,83,Cash,Personal
+TX0147,2026-08-14,16:20,Food Delivery,Pizza share,373,Cash,Personal
+TX0323,2026-08-14,16:20,Shopping,Online order,865,UPI,Personal
+TX0269,2026-08-14,19:10,Transportation,Bike taxi,130,Cash,Shared
+TX0524,2026-08-15,10:30,Shopping,Clothing,380,Card,Shared
+TX0623,2026-08-15,10:30,Turf & Sports,Badminton court share,197,Cash,Shared
+TX0403,2026-08-15,16:20,Entertainment,Weekend outing,463,UPI,Shared
+TX0011,2026-08-15,19:10,Snacks & Drinks,Chips and biscuits,24,Card,Personal
+TX0007,2026-08-15,21:30,Personal Care,Haircut,85,Cash,Personal
+TX0652,2026-08-15,21:30,Stationery & Printing,Notebook and pens,187,Card,Personal
+TX0024,2026-08-16,08:15,Personal Care,Haircut,110,UPI,Personal
+TX0271,2026-08-16,08:15,Entertainment,Weekend outing,459,UPI,Shared
+TX0401,2026-08-16,08:15,Laundry,Laundry load,56,UPI,Shared
+TX0115,2026-08-16,10:30,Snacks & Drinks,Tea/coffee,44,Cash,Personal
+TX0417,2026-08-16,10:30,Laundry,Laundry load,53,Card,Shared
+TX0057,2026-08-16,12:45,Mobile & Internet,Mobile recharge,379,UPI,Personal
+TX0231,2026-08-16,12:45,Food Delivery,Late-night biryani,267,Card,Personal
+TX0017,2026-08-16,16:20,Snacks & Drinks,Tea/coffee,42,UPI,Personal
+TX0068,2026-08-16,19:10,Transportation,Bike taxi,124,Cash,Personal
+TX0197,2026-08-17,08:15,Health,Clinic visit,134,UPI,Personal
+TX0245,2026-08-17,08:15,Entertainment,Movie ticket,252,Cash,Personal
+TX0056,2026-08-17,10:30,Turf & Sports,Football turf share,210,UPI,Shared
+TX0097,2026-08-17,10:30,Snacks & Drinks,Juice,39,Cash,Personal
+TX0436,2026-08-17,16:20,Subscriptions,Gaming subscription,198,Card,Personal
+TX0552,2026-08-17,16:20,Snacks & Drinks,Tea/coffee,26,Cash,Shared
+TX0619,2026-08-17,16:20,Stationery & Printing,Notebook and pens,59,Cash,Shared
+TX0274,2026-08-17,19:10,Transportation,Bus fare,27,Cash,Shared
+TX0353,2026-08-18,10:30,Food & Mess Extras,Canteen lunch,109,Card,Shared
+TX0515,2026-08-18,10:30,Subscriptions,Music subscription,104,UPI,Shared
+TX0019,2026-08-18,12:45,Turf & Sports,Cricket nets,215,Card,Personal
+TX0206,2026-08-18,12:45,Transportation,Auto ride,80,Cash,Shared
+TX0658,2026-08-18,12:45,Food & Mess Extras,Parotta dinner,131,UPI,Personal
+TX0008,2026-08-18,19:10,Food & Mess Extras,Parotta dinner,140,Cash,Personal
+TX0193,2026-08-18,19:10,Miscellaneous,Small household item,262,Card,Shared
+TX0654,2026-08-18,19:10,Food Delivery,Pizza share,340,UPI,Personal
+TX0163,2026-08-18,21:30,Turf & Sports,Badminton court share,97,Cash,Personal
+TX0084,2026-08-19,08:15,Subscriptions,Gaming subscription,153,Cash,Shared
+TX0400,2026-08-19,08:15,Food Delivery,Food delivery order,166,Cash,Shared
+TX0490,2026-08-19,08:15,Shopping,Clothing,1153,Card,Shared
+TX0430,2026-08-19,12:45,Food & Mess Extras,Extra meal,71,Card,Personal
+TX0257,2026-08-19,16:20,Personal Care,Soap/shampoo,202,Cash,Shared
+TX0265,2026-08-19,21:30,Food Delivery,Food delivery order,374,Cash,Shared
+TX0273,2026-08-19,21:30,Health,Medicine,108,Cash,Shared
+TX0440,2026-08-19,21:30,Social & Friends,Treat for friends,518,Cash,Shared
+TX0555,2026-08-19,21:30,Stationery & Printing,Printouts,73,Cash,Personal
+TX0597,2026-08-19,21:30,Food & Mess Extras,Canteen lunch,65,Cash,Personal
+TX0322,2026-08-20,08:15,Stationery & Printing,Notebook and pens,104,Cash,Personal
+TX0015,2026-08-20,12:45,Mobile & Internet,Data add-on,37,UPI,Personal
+TX0429,2026-08-20,16:20,Food & Mess Extras,Canteen lunch,65,Card,Shared
+TX0473,2026-08-20,16:20,Food Delivery,Food delivery order,242,Cash,Personal
+TX0309,2026-08-20,19:10,Miscellaneous,Small household item,202,Card,Shared
+TX0480,2026-08-20,21:30,Turf & Sports,Badminton court share,147,UPI,Shared
+TX0077,2026-08-21,08:15,Snacks & Drinks,Juice,25,Cash,Personal
+TX0360,2026-08-21,08:15,Transportation,Bike taxi,95,UPI,Shared
+TX0063,2026-08-21,12:45,Food Delivery,Food delivery order,262,Card,Shared
+TX0071,2026-08-21,12:45,Entertainment,Movie ticket,197,UPI,Shared
+TX0303,2026-08-21,12:45,Food & Mess Extras,Canteen lunch,64,Card,Shared
+TX0387,2026-08-21,12:45,Transportation,Bus fare,38,Card,Personal
+TX0454,2026-08-21,16:20,Entertainment,Theatre snacks,154,Cash,Shared
+TX0630,2026-08-21,16:20,Stationery & Printing,Notebook and pens,147,Card,Shared
+TX0110,2026-08-21,19:10,Subscriptions,Video streaming,268,Cash,Shared
+TX0585,2026-08-21,21:30,Food Delivery,Food delivery order,418,Card,Personal
+TX0381,2026-08-22,08:15,Snacks & Drinks,Juice,54,Card,Personal
+TX0469,2026-08-22,08:15,Turf & Sports,Cricket nets,137,UPI,Personal
+TX0674,2026-08-22,08:15,Food Delivery,Pizza share,417,Cash,Personal
+TX0060,2026-08-22,10:30,Stationery & Printing,Photocopies,56,Cash,Personal
+TX0404,2026-08-22,10:30,Food Delivery,Food delivery order,472,Card,Personal
+TX0414,2026-08-22,12:45,Subscriptions,Music subscription,140,UPI,Shared
+TX0241,2026-08-22,19:10,Food Delivery,Pizza share,353,Cash,Shared
+TX0365,2026-08-22,19:10,Snacks & Drinks,Chips and biscuits,38,Cash,Personal
+TX0568,2026-08-22,19:10,Laundry,Ironing,27,UPI,Personal
+TX0311,2026-08-23,08:15,Turf & Sports,Badminton court share,192,Card,Shared
+TX0367,2026-08-23,10:30,Entertainment,Movie ticket,228,Cash,Personal
+TX0663,2026-08-23,10:30,Entertainment,Theatre snacks,88,Card,Shared
+TX0196,2026-08-23,12:45,Laundry,Ironing,74,Card,Shared
+TX0209,2026-08-23,12:45,Snacks & Drinks,Juice,39,Cash,Personal
+TX0540,2026-08-23,12:45,Social & Friends,Treat for friends,699,Card,Shared
+TX0644,2026-08-23,12:45,Social & Friends,Birthday contribution,257,Cash,Shared
+TX0076,2026-08-23,21:30,Mobile & Internet,Mobile recharge,332,Cash,Shared
+TX0609,2026-08-23,21:30,Stationery & Printing,Notebook and pens,160,Card,Personal
+TX0463,2026-08-24,08:15,Subscriptions,Gaming subscription,123,UPI,Shared
+TX0579,2026-08-24,12:45,Mobile & Internet,Data add-on,77,UPI,Shared
+TX0478,2026-08-24,19:10,Laundry,Laundry load,108,Card,Personal
+TX0336,2026-08-24,21:30,Entertainment,Movie ticket,222,UPI,Personal
+TX0398,2026-08-25,08:15,Snacks & Drinks,Juice,73,Card,Shared
+TX0198,2026-08-25,10:30,Food & Mess Extras,Canteen lunch,87,Card,Personal
+TX0104,2026-08-25,12:45,Stationery & Printing,Photocopies,22,UPI,Personal
+TX0195,2026-08-25,12:45,Transportation,Bus fare,62,Cash,Shared
+TX0215,2026-08-25,12:45,Food & Mess Extras,Extra meal,155,Card,Shared
+TX0626,2026-08-25,12:45,Subscriptions,Music subscription,120,Card,Shared
+TX0066,2026-08-25,16:20,Turf & Sports,Badminton court share,74,Card,Personal
+TX0302,2026-08-25,16:20,Snacks & Drinks,Chips and biscuits,61,Cash,Personal
+TX0156,2026-08-26,08:15,Snacks & Drinks,Chips and biscuits,18,Cash,Personal
+TX0180,2026-08-26,08:15,Transportation,Bus fare,56,Card,Shared
+TX0425,2026-08-26,08:15,Laundry,Ironing,60,Cash,Personal
+TX0447,2026-08-26,10:30,Personal Care,Soap/shampoo,238,UPI,Shared
+TX0080,2026-08-26,19:10,Turf & Sports,Badminton court share,174,Cash,Shared
+TX0151,2026-08-26,21:30,Food & Mess Extras,Parotta dinner,61,UPI,Shared
+TX0247,2026-08-27,08:15,Mobile & Internet,Mobile recharge,255,Cash,Shared
+TX0402,2026-08-27,08:15,Entertainment,Weekend outing,308,UPI,Personal
+TX0506,2026-08-27,08:15,Food Delivery,Late-night biryani,180,UPI,Shared
+TX0542,2026-08-27,08:15,Food & Mess Extras,Extra meal,82,Cash,Shared
+TX0657,2026-08-27,10:30,Snacks & Drinks,Juice,34,UPI,Personal
+TX0251,2026-08-27,12:45,Turf & Sports,Football turf share,104,UPI,Personal
+TX0338,2026-08-27,19:10,Laundry,Ironing,58,Card,Personal
+TX0505,2026-08-27,19:10,Transportation,Auto ride,70,Cash,Personal
+TX0189,2026-08-27,21:30,Entertainment,Weekend outing,122,Card,Shared
+TX0368,2026-08-27,21:30,Personal Care,Soap/shampoo,177,UPI,Personal
+TX0421,2026-08-27,21:30,Food Delivery,Late-night biryani,347,Card,Personal
+TX0538,2026-08-27,21:30,Food & Mess Extras,Extra meal,76,UPI,Shared
+TX0047,2026-08-28,08:15,Gaming,Gaming café,75,Card,Personal
+TX0062,2026-08-28,08:15,Food Delivery,Food delivery order,234,Card,Personal
+TX0424,2026-08-28,12:45,Stationery & Printing,Photocopies,35,Cash,Personal
+TX0434,2026-08-28,12:45,Turf & Sports,Badminton court share,150,Card,Personal
+TX0639,2026-08-28,12:45,Stationery & Printing,Notebook and pens,213,UPI,Shared
+TX0162,2026-08-28,16:20,Personal Care,Soap/shampoo,138,UPI,Personal
+TX0190,2026-08-28,16:20,Gaming,Game purchase,161,Cash,Shared
+TX0615,2026-08-28,16:20,Miscellaneous,Small household item,165,UPI,Personal
+TX0173,2026-08-28,19:10,Food Delivery,Pizza share,314,Cash,Shared
+TX0432,2026-08-28,19:10,Food & Mess Extras,Canteen lunch,102,Card,Shared
+TX0443,2026-08-28,19:10,Turf & Sports,Cricket nets,220,UPI,Personal
+TX0487,2026-08-28,19:10,Entertainment,Movie ticket,247,UPI,Shared
+TX0460,2026-08-28,21:30,Food & Mess Extras,Parotta dinner,85,UPI,Shared
+TX0601,2026-08-28,21:30,Laundry,Ironing,75,UPI,Shared
+TX0413,2026-08-29,12:45,Health,Medicine,254,Card,Personal
+TX0227,2026-08-29,19:10,Turf & Sports,Badminton court share,175,Card,Personal
+TX0243,2026-08-29,19:10,Laundry,Ironing,84,Cash,Personal
+TX0282,2026-08-29,19:10,Stationery & Printing,Photocopies,13,UPI,Personal
+TX0033,2026-08-29,21:30,Personal Care,Soap/shampoo,212,Card,Personal
+TX0171,2026-08-29,21:30,Social & Friends,Birthday contribution,570,Card,Shared
+TX0223,2026-08-29,21:30,Laundry,Ironing,92,Card,Shared
+TX0340,2026-08-29,21:30,Food Delivery,Late-night biryani,354,Cash,Personal
+TX0522,2026-08-30,08:15,Entertainment,Weekend outing,257,UPI,Personal
+TX0577,2026-08-30,08:15,Mobile & Internet,Mobile recharge,302,UPI,Shared
+TX0607,2026-08-30,08:15,Laundry,Laundry load,120,Cash,Shared
+TX0588,2026-08-30,10:30,Food & Mess Extras,Parotta dinner,131,Card,Shared
+TX0550,2026-08-30,16:20,Personal Care,Haircut,180,Cash,Shared
+TX0476,2026-08-30,19:10,Health,Medicine,38,UPI,Personal
+TX0556,2026-08-30,19:10,Food Delivery,Late-night biryani,334,Card,Personal
+TX0149,2026-08-30,21:30,Laundry,Ironing,69,Card,Personal
+TX0678,2026-08-30,21:30,Snacks & Drinks,Tea/coffee,18,Cash,Shared
+TX0294,2026-08-31,12:45,Transportation,Auto ride,76,Card,Shared
+TX0410,2026-08-31,12:45,Food Delivery,Late-night biryani,231,Card,Shared
+TX0582,2026-08-31,12:45,Food & Mess Extras,Parotta dinner,101,Cash,Shared
+TX0143,2026-08-31,19:10,Miscellaneous,Unexpected expense,136,UPI,Shared
+TX0088,2026-09-01,08:15,Snacks & Drinks,Chips and biscuits,77,Cash,Shared
+TX0661,2026-09-01,08:15,Stationery & Printing,Photocopies,27,Card,Shared
+TX0566,2026-09-01,10:30,Personal Care,Soap/shampoo,98,Cash,Shared
+TX0668,2026-09-01,12:45,Food & Mess Extras,Canteen lunch,64,Card,Personal
+TX0602,2026-09-01,16:20,Food Delivery,Food delivery order,204,UPI,Personal
+TX0299,2026-09-02,08:15,Personal Care,Haircut,82,Cash,Shared
+TX0390,2026-09-02,08:15,Personal Care,Haircut,152,Card,Personal
+TX0536,2026-09-02,10:30,Snacks & Drinks,Juice,34,Cash,Shared
+TX0276,2026-09-02,12:45,Entertainment,Weekend outing,160,Cash,Shared
+TX0213,2026-09-02,16:20,Laundry,Laundry load,56,Card,Personal
+TX0292,2026-09-02,16:20,Mobile & Internet,Data add-on,57,UPI,Shared
+TX0150,2026-09-02,19:10,Social & Friends,Birthday contribution,357,Cash,Personal
+TX0254,2026-09-02,19:10,Turf & Sports,Football turf share,231,UPI,Personal
+TX0641,2026-09-02,19:10,Food & Mess Extras,Canteen lunch,46,Cash,Shared
+TX0142,2026-09-02,21:30,Shopping,Online order,621,Cash,Shared
+TX0214,2026-09-03,08:15,Entertainment,Weekend outing,281,Cash,Personal
+TX0600,2026-09-03,08:15,Turf & Sports,Football turf share,116,Cash,Shared
+TX0628,2026-09-03,08:15,Personal Care,Haircut,101,Cash,Shared
+TX0048,2026-09-03,10:30,Snacks & Drinks,Chips and biscuits,23,Cash,Shared
+TX0289,2026-09-03,10:30,Gaming,Gaming café,198,UPI,Shared
+TX0587,2026-09-03,10:30,Food Delivery,Food delivery order,405,Cash,Personal
+TX0581,2026-09-04,12:45,Miscellaneous,Small household item,174,Card,Personal
+TX0633,2026-09-04,16:20,Turf & Sports,Badminton court share,145,Cash,Shared
+TX0642,2026-09-04,19:10,Stationery & Printing,Notebook and pens,207,UPI,Personal
+TX0374,2026-09-04,21:30,Mobile & Internet,Data add-on,31,Cash,Shared
+TX0266,2026-09-05,08:15,Snacks & Drinks,Tea/coffee,37,Cash,Personal
+TX0082,2026-09-05,16:20,Transportation,Bus fare,45,UPI,Shared
+TX0121,2026-09-05,16:20,Food Delivery,Late-night biryani,260,Cash,Personal
+TX0427,2026-09-05,19:10,Snacks & Drinks,Tea/coffee,31,Cash,Shared
+TX0344,2026-09-06,08:15,Transportation,Bike taxi,132,Card,Personal
+TX0662,2026-09-06,08:15,Snacks & Drinks,Tea/coffee,43,Card,Personal
+TX0219,2026-09-06,10:30,Food & Mess Extras,Parotta dinner,103,Cash,Personal
+TX0317,2026-09-06,12:45,Food Delivery,Food delivery order,413,Card,Shared
+TX0188,2026-09-06,16:20,Food & Mess Extras,Extra meal,105,Cash,Personal
+TX0380,2026-09-06,21:30,Food & Mess Extras,Extra meal,149,UPI,Personal
+TX0486,2026-09-06,21:30,Food & Mess Extras,Canteen lunch,113,UPI,Shared
+TX0675,2026-09-07,08:15,Food & Mess Extras,Canteen lunch,119,Card,Personal
+TX0324,2026-09-07,10:30,Snacks & Drinks,Juice,59,UPI,Personal
+TX0035,2026-09-07,12:45,Transportation,Auto ride,86,Cash,Personal
+TX0012,2026-09-07,16:20,Laundry,Laundry load,99,Cash,Personal
+TX0356,2026-09-07,16:20,Food Delivery,Food delivery order,246,Cash,Personal
+TX0343,2026-09-07,21:30,Stationery & Printing,Notebook and pens,93,Card,Personal
+TX0605,2026-09-07,21:30,Gaming,Gaming café,62,UPI,Personal
+TX0351,2026-09-08,08:15,Miscellaneous,Unexpected expense,140,Cash,Shared
+TX0031,2026-09-08,10:30,Snacks & Drinks,Juice,85,Cash,Shared
+TX0267,2026-09-08,12:45,Food Delivery,Food delivery order,160,Card,Shared
+TX0667,2026-09-08,12:45,Laundry,Laundry load,106,Card,Shared
+TX0023,2026-09-08,16:20,Health,Medicine,195,UPI,Personal
+TX0181,2026-09-08,16:20,Mobile & Internet,Data add-on,26,Cash,Personal
+TX0169,2026-09-08,19:10,Personal Care,Haircut,147,Cash,Personal
+TX0520,2026-09-08,19:10,Stationery & Printing,Printouts,77,Cash,Shared
+TX0094,2026-09-08,21:30,Food & Mess Extras,Parotta dinner,88,UPI,Personal
+TX0154,2026-09-08,21:30,Food & Mess Extras,Extra meal,75,Card,Shared
+TX0445,2026-09-08,21:30,Snacks & Drinks,Chips and biscuits,28,Card,Personal
+TX0026,2026-09-09,10:30,Snacks & Drinks,Juice,79,Card,Personal
+TX0111,2026-09-09,12:45,Entertainment,Theatre snacks,200,Cash,Shared
+TX0184,2026-09-09,12:45,Snacks & Drinks,Tea/coffee,24,UPI,Personal
+TX0252,2026-09-09,12:45,Health,Clinic visit,156,UPI,Shared
+TX0494,2026-09-09,12:45,Transportation,Auto ride,91,Card,Shared
+TX0560,2026-09-09,16:20,Food Delivery,Late-night biryani,283,UPI,Shared
+TX0544,2026-09-09,19:10,Health,Medicine,203,Card,Shared
+TX0389,2026-09-09,21:30,Transportation,Bike taxi,42,UPI,Personal
+TX0438,2026-09-10,10:30,Snacks & Drinks,Chips and biscuits,32,Cash,Shared
+TX0172,2026-09-10,12:45,Food Delivery,Late-night biryani,153,Card,Personal
+TX0016,2026-09-10,16:20,Entertainment,Weekend outing,399,Card,Shared
+TX0364,2026-09-10,19:10,Transportation,Auto ride,137,Cash,Shared
+TX0055,2026-09-10,21:30,Food & Mess Extras,Extra meal,158,UPI,Personal
+TX0290,2026-09-11,08:15,Food & Mess Extras,Extra meal,55,Card,Shared
+TX0458,2026-09-11,08:15,Personal Care,Haircut,167,UPI,Personal
+TX0158,2026-09-11,10:30,Subscriptions,Music subscription,80,UPI,Shared
+TX0207,2026-09-11,10:30,Turf & Sports,Football turf share,139,Card,Personal
+TX0394,2026-09-11,16:20,Snacks & Drinks,Chips and biscuits,57,Card,Personal
+TX0526,2026-09-11,16:20,Turf & Sports,Badminton court share,84,Card,Shared
+TX0335,2026-09-11,19:10,Subscriptions,Music subscription,81,Card,Shared
+TX0563,2026-09-12,10:30,Turf & Sports,Football turf share,151,Card,Shared
+TX0216,2026-09-12,12:45,Transportation,Bike taxi,146,UPI,Shared
+TX0411,2026-09-12,12:45,Stationery & Printing,Printouts,53,Cash,Shared
+TX0431,2026-09-12,12:45,Food & Mess Extras,Canteen lunch,63,Cash,Personal
+TX0284,2026-09-12,16:20,Food & Mess Extras,Parotta dinner,69,Cash,Shared
+TX0492,2026-09-12,19:10,Food Delivery,Pizza share,212,UPI,Shared
+TX0437,2026-09-12,21:30,Food Delivery,Food delivery order,411,Card,Personal
+TX0259,2026-09-13,08:15,Laundry,Ironing,37,Cash,Shared
+TX0512,2026-09-13,10:30,Turf & Sports,Football turf share,123,Card,Shared
+TX0065,2026-09-13,16:20,Social & Friends,Treat for friends,141,Cash,Shared
+TX0086,2026-09-13,16:20,Health,Medicine,224,UPI,Shared
+TX0416,2026-09-13,16:20,Transportation,Bike taxi,217,Card,Personal
+TX0659,2026-09-13,16:20,Personal Care,Soap/shampoo,124,Card,Personal
+TX0072,2026-09-13,21:30,Turf & Sports,Cricket nets,214,UPI,Shared
+TX0098,2026-09-13,21:30,Food & Mess Extras,Parotta dinner,133,Cash,Shared
+TX0455,2026-09-13,21:30,Food & Mess Extras,Canteen lunch,51,Cash,Shared
+TX0187,2026-09-14,08:15,Food Delivery,Food delivery order,255,UPI,Shared
+TX0393,2026-09-14,08:15,Snacks & Drinks,Juice,75,Cash,Personal
+TX0029,2026-09-14,10:30,Snacks & Drinks,Tea/coffee,13,UPI,Personal
+TX0146,2026-09-14,10:30,Turf & Sports,Badminton court share,122,Cash,Shared
+TX0370,2026-09-14,10:30,Laundry,Laundry load,101,Cash,Shared
+TX0531,2026-09-14,10:30,Food & Mess Extras,Parotta dinner,101,UPI,Shared
+TX0225,2026-09-14,12:45,Food & Mess Extras,Canteen lunch,49,Cash,Shared
+TX0470,2026-09-14,12:45,Laundry,Ironing,74,UPI,Personal
+TX0199,2026-09-14,16:20,Social & Friends,Treat for friends,225,Cash,Shared
+TX0622,2026-09-14,16:20,Transportation,Bike taxi,213,UPI,Shared
+TX0178,2026-09-14,21:30,Laundry,Laundry load,93,UPI,Shared
+TX0656,2026-09-14,21:30,Entertainment,Weekend outing,200,UPI,Shared
+TX0433,2026-09-15,08:15,Food Delivery,Late-night biryani,300,Cash,Shared
+TX0559,2026-09-15,08:15,Snacks & Drinks,Juice,33,Cash,Shared
+TX0359,2026-09-15,10:30,Food & Mess Extras,Canteen lunch,46,Card,Personal
+TX0130,2026-09-15,19:10,Food & Mess Extras,Parotta dinner,101,Cash,Personal
+TX0301,2026-09-15,19:10,Mobile & Internet,Data add-on,55,UPI,Personal
+TX0203,2026-09-16,10:30,Shopping,Online order,129,Cash,Shared
+TX0677,2026-09-16,16:20,Food & Mess Extras,Parotta dinner,108,Card,Personal
+TX0192,2026-09-16,19:10,Snacks & Drinks,Tea/coffee,27,Card,Shared
+TX0308,2026-09-16,19:10,Mobile & Internet,Mobile recharge,232,Cash,Personal
+TX0535,2026-09-16,21:30,Food Delivery,Pizza share,293,Card,Personal
+TX0578,2026-09-16,21:30,Stationery & Printing,Printouts,96,Card,Shared
+TX0122,2026-09-17,10:30,Social & Friends,Birthday contribution,490,Card,Personal
+TX0358,2026-09-17,10:30,Laundry,Laundry load,70,UPI,Personal
+TX0319,2026-09-17,19:10,Transportation,Bus fare,45,Cash,Personal
+TX0175,2026-09-17,21:30,Snacks & Drinks,Tea/coffee,39,Cash,Shared
+TX0179,2026-09-17,21:30,Transportation,Auto ride,48,Cash,Personal
+TX0468,2026-09-17,21:30,Gaming,In-game purchase,228,UPI,Personal
+TX0138,2026-09-18,10:30,Laundry,Ironing,26,Cash,Personal
+TX0159,2026-09-18,10:30,Subscriptions,Video streaming,248,UPI,Shared
+TX0495,2026-09-18,10:30,Snacks & Drinks,Chips and biscuits,78,Card,Personal
+TX0386,2026-09-18,16:20,Entertainment,Theatre snacks,128,UPI,Shared
+TX0439,2026-09-18,16:20,Food & Mess Extras,Parotta dinner,61,UPI,Personal
+TX0044,2026-09-18,19:10,Food & Mess Extras,Canteen lunch,114,Card,Shared
+TX0090,2026-09-18,19:10,Entertainment,Theatre snacks,211,Card,Personal
+TX0166,2026-09-18,21:30,Snacks & Drinks,Juice,42,UPI,Personal
+TX0232,2026-09-19,08:15,Gaming,Game purchase,436,Card,Shared
+TX0459,2026-09-19,08:15,Stationery & Printing,Printouts,7,UPI,Shared
+TX0022,2026-09-19,10:30,Food Delivery,Pizza share,487,Cash,Personal
+TX0224,2026-09-19,21:30,Food Delivery,Late-night biryani,181,Cash,Shared
+TX0519,2026-09-19,21:30,Miscellaneous,Unexpected expense,117,Cash,Shared
+TX0497,2026-09-20,08:15,Stationery & Printing,Notebook and pens,115,Card,Shared
+TX0679,2026-09-20,08:15,Snacks & Drinks,Juice,72,Card,Personal
+TX0001,2026-09-20,10:30,Food & Mess Extras,Canteen lunch,75,UPI,Personal
+TX0397,2026-09-20,10:30,Snacks & Drinks,Chips and biscuits,77,Cash,Shared
+TX0133,2026-09-20,12:45,Stationery & Printing,Notebook and pens,150,Cash,Shared
+TX0572,2026-09-20,12:45,Shopping,Clothing,447,Cash,Shared
+TX0160,2026-09-20,16:20,Snacks & Drinks,Chips and biscuits,16,Cash,Personal
+TX0288,2026-09-20,19:10,Social & Friends,Treat for friends,253,Card,Personal
+TX0341,2026-09-20,19:10,Shopping,Online order,476,UPI,Personal
+TX0501,2026-09-20,19:10,Stationery & Printing,Notebook and pens,181,UPI,Shared
+TX0532,2026-09-20,19:10,Social & Friends,Treat for friends,313,Card,Shared
+TX0270,2026-09-20,21:30,Miscellaneous,Unexpected expense,39,Card,Shared
+TX0109,2026-09-21,08:15,Laundry,Ironing,22,Cash,Personal
+TX0236,2026-09-21,08:15,Subscriptions,Gaming subscription,191,Cash,Shared
+TX0517,2026-09-21,16:20,Food Delivery,Late-night biryani,290,UPI,Personal
+TX0260,2026-09-21,21:30,Snacks & Drinks,Juice,84,Cash,Personal
+TX0334,2026-09-21,21:30,Snacks & Drinks,Tea/coffee,10,Cash,Shared
+TX0653,2026-09-21,21:30,Turf & Sports,Football turf share,230,Cash,Personal
+TX0152,2026-09-22,12:45,Social & Friends,Birthday contribution,340,Cash,Shared
+TX0328,2026-09-22,12:45,Snacks & Drinks,Chips and biscuits,56,Card,Personal
+TX0153,2026-09-22,16:20,Food & Mess Extras,Parotta dinner,128,Cash,Shared
+TX0264,2026-09-22,16:20,Food Delivery,Food delivery order,308,Cash,Shared
+TX0388,2026-09-22,16:20,Miscellaneous,Unexpected expense,43,Cash,Shared
+TX0291,2026-09-22,19:10,Snacks & Drinks,Juice,78,Card,Personal
+TX0589,2026-09-22,21:30,Food & Mess Extras,Parotta dinner,88,Cash,Shared
+TX0101,2026-09-23,08:15,Food Delivery,Pizza share,354,Cash,Shared
+TX0137,2026-09-23,08:15,Personal Care,Haircut,132,UPI,Shared
+TX0415,2026-09-23,08:15,Snacks & Drinks,Chips and biscuits,63,Cash,Shared
+TX0547,2026-09-23,08:15,Snacks & Drinks,Tea/coffee,16,Cash,Shared
+TX0551,2026-09-23,10:30,Snacks & Drinks,Juice,74,Cash,Shared
+TX0502,2026-09-23,12:45,Social & Friends,Birthday contribution,249,Cash,Shared
+TX0164,2026-09-23,19:10,Transportation,Bus fare,16,Card,Shared
+TX0239,2026-09-23,19:10,Food Delivery,Pizza share,247,Cash,Personal
+TX0383,2026-09-23,19:10,Transportation,Bus fare,78,Cash,Personal
+TX0608,2026-09-23,19:10,Food & Mess Extras,Canteen lunch,74,Card,Personal
+TX0050,2026-09-24,08:15,Stationery & Printing,Printouts,89,UPI,Shared
+TX0089,2026-09-24,10:30,Subscriptions,Video streaming,284,Cash,Personal
+TX0058,2026-09-24,19:10,Food & Mess Extras,Canteen lunch,92,Card,Personal
+TX0279,2026-09-24,19:10,Food Delivery,Food delivery order,401,Cash,Shared
+TX0670,2026-09-24,21:30,Gaming,Game purchase,984,Cash,Personal
+TX0064,2026-09-25,08:15,Miscellaneous,Small household item,44,Cash,Personal
+TX0649,2026-09-25,08:15,Laundry,Ironing,74,Card,Personal
+TX0435,2026-09-25,12:45,Snacks & Drinks,Tea/coffee,25,UPI,Personal
+TX0208,2026-09-25,16:20,Food & Mess Extras,Parotta dinner,114,Card,Shared
+TX0349,2026-09-25,16:20,Stationery & Printing,Photocopies,6,Cash,Personal
+TX0043,2026-09-25,19:10,Personal Care,Haircut,95,UPI,Personal
+TX0576,2026-09-25,19:10,Snacks & Drinks,Juice,77,UPI,Personal
+TX0318,2026-09-25,21:30,Stationery & Printing,Photocopies,48,Card,Shared
+TX0020,2026-09-26,08:15,Laundry,Ironing,63,Cash,Shared
+TX0191,2026-09-26,08:15,Food & Mess Extras,Canteen lunch,96,UPI,Shared
+TX0672,2026-09-26,08:15,Snacks & Drinks,Chips and biscuits,57,UPI,Personal
+TX0592,2026-09-26,10:30,Food Delivery,Late-night biryani,257,UPI,Personal
+TX0013,2026-09-26,12:45,Food Delivery,Food delivery order,272,Cash,Shared
+TX0100,2026-09-26,12:45,Turf & Sports,Football turf share,278,Card,Shared
+TX0392,2026-09-26,12:45,Shopping,Clothing,383,UPI,Personal
+TX0584,2026-09-26,12:45,Snacks & Drinks,Tea/coffee,41,Cash,Shared
+TX0405,2026-09-26,16:20,Food Delivery,Food delivery order,270,UPI,Personal
+TX0647,2026-09-26,21:30,Food Delivery,Pizza share,290,UPI,Shared
+TX0395,2026-09-27,08:15,Laundry,Ironing,26,Cash,Personal
+TX0472,2026-09-27,10:30,Food & Mess Extras,Canteen lunch,78,Card,Personal
+TX0129,2026-09-27,16:20,Food Delivery,Late-night biryani,238,Cash,Personal
+TX0676,2026-09-28,08:15,Personal Care,Haircut,144,Cash,Shared
+TX0372,2026-09-28,10:30,Turf & Sports,Football turf share,201,Card,Shared
+TX0481,2026-09-28,10:30,Transportation,Bus fare,17,UPI,Shared
+TX0637,2026-09-28,10:30,Food & Mess Extras,Extra meal,108,Card,Shared
+TX0061,2026-09-28,16:20,Food & Mess Extras,Extra meal,154,UPI,Personal
+TX0148,2026-09-28,16:20,Snacks & Drinks,Chips and biscuits,44,UPI,Shared
+TX0503,2026-09-28,16:20,Stationery & Printing,Printouts,45,Cash,Personal
+TX0500,2026-09-28,19:10,Mobile & Internet,Data add-on,29,UPI,Personal
+TX0525,2026-09-28,21:30,Food Delivery,Pizza share,194,Card,Shared
+TX0441,2026-09-29,08:15,Stationery & Printing,Printouts,26,Card,Personal
+TX0009,2026-09-29,12:45,Food & Mess Extras,Canteen lunch,69,UPI,Personal
+TX0310,2026-09-29,12:45,Turf & Sports,Cricket nets,84,Cash,Personal
+TX0507,2026-09-29,12:45,Subscriptions,Music subscription,86,UPI,Personal
+TX0648,2026-09-29,16:20,Food & Mess Extras,Parotta dinner,131,Card,Shared
+TX0140,2026-09-29,19:10,Snacks & Drinks,Juice,26,Cash,Personal
+TX0448,2026-09-29,19:10,Turf & Sports,Cricket nets,122,UPI,Personal
+TX0545,2026-09-29,19:10,Food & Mess Extras,Canteen lunch,61,Cash,Personal
+TX0426,2026-09-29,21:30,Food & Mess Extras,Parotta dinner,73,UPI,Personal
+TX0099,2026-09-30,08:15,Snacks & Drinks,Juice,56,Card,Shared
+TX0635,2026-09-30,08:15,Subscriptions,Gaming subscription,214,UPI,Personal
+TX0004,2026-09-30,10:30,Gaming,Gaming café,157,Cash,Shared
+TX0646,2026-09-30,10:30,Laundry,Laundry load,65,Card,Shared
+TX0027,2026-09-30,16:20,Food Delivery,Pizza share,371,Card,Shared
+TX0347,2026-09-30,16:20,Turf & Sports,Football turf share,230,UPI,Shared
+TX0052,2026-09-30,19:10,Food Delivery,Pizza share,315,Cash,Shared
+TX0508,2026-09-30,19:10,Snacks & Drinks,Chips and biscuits,65,UPI,Shared

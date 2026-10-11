@@ -1,0 +1,6 @@
+Subscription,RenewalDate,MonthlyCost_INR,BillingCycle,Status,Notes
+Music subscription,2026-10-03,119,Monthly,Active,Used regularly
+Video streaming,2026-10-11,149,Monthly,Active,Shared
+Cloud storage,2026-10-15,59,Monthly,Active,Backups
+Gaming subscription,2026-10-02,199,Monthly,Active,Occasional use
+Extra OTT subscription,2026-10-10,129,Monthly,Review,Review if unused

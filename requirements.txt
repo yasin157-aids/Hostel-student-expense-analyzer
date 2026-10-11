@@ -1,0 +1,5 @@
+# R packages are listed in install_packages.R
+shiny
+dplyr
+ggplot2
+DT

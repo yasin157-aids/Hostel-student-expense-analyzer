@@ -1,0 +1,13 @@
+RecordID,Date,Type,Person,Description,Amount_INR
+M001,2026-07-05,Lent,Rahul,Shared turf booking,300
+M002,2026-07-08,Borrowed,Arun,Movie tickets,250
+M003,2026-07-12,Repayment Received,Rahul,Partial repayment,100
+M004,2026-07-15,Repayment Made,Arun,Partial repayment,80
+M005,2026-08-02,Lent,Karthik,Shared food order,220
+M006,2026-08-10,Borrowed,Vijay,Travel,400
+M007,2026-08-16,Repayment Received,Karthik,Repaid,220
+M008,2026-08-20,Repayment Made,Vijay,Partial repayment,150
+M009,2026-09-04,Lent,Rahul,Emergency payment,180
+M010,2026-09-12,Borrowed,Arun,Group dinner,300
+M011,2026-09-18,Repayment Received,Rahul,Repayment,200
+M012,2026-09-24,Repayment Made,Arun,Partial repayment,100
